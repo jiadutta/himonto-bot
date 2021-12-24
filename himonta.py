@@ -232,4 +232,4 @@ async def snipe(ctx):
 #add and take role
 
 #tokenkakunidibi
-client.run("OTIyNTIwMjgwMTA1MTExNjQz.YcCp9g.od-2CYfeZfsxt-BWOLHulO55XVU")
+client.run("*********************************************************")
